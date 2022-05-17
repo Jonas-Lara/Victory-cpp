@@ -1,7 +1,7 @@
 
 # Victory
 
-## Soluciones a problemas de LeetCode en C#
+## Soluciones a problemas de LeetCode en C++
 
 _Busca en el indíce el problema que te interesa, todos los algoritmos están comentados al inicio sobre la técnica que se ocupa y lo que se quiere lograr_
 
