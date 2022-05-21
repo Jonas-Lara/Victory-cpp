@@ -1,5 +1,5 @@
 LeetCode:
-	-Two Sums
-	-Add Two Numbers
-	-Longest substrings
+	-Two Sums --> Xournal
+	-Add Two Numbers --> Xournal
+	-Longest substrings --> Xournal
 	
