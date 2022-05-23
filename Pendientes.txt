@@ -1,6 +1,6 @@
 LeetCode:
-	-Two Sums --> Xournal
-	-Add Two Numbers --> Xournal
-	-Longest substrings --> Xournal
-	-N-queens --> Xournal
+	-Two Sums --> OneNote
+	-Add Two Numbers --> OneNote
+	-Longest substrings --> OneNote
+	-N-queens --> OneNote
 	
